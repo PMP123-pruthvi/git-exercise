@@ -1,5 +1,0 @@
-Welcome TO git
-
-this is the first commit and push by pruthvi
-
-this is second update
