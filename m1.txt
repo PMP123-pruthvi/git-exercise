@@ -1,1 +1,3 @@
 m1 file created on master branch
+added
+new line added
